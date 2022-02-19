@@ -21,12 +21,12 @@
 	</files>
 
 	<languages>
-		<language tag="en-GB">language/en-GB/en-GB.mod_sportowiada_ranking.ini</language>
-		<language tag="en-GB">language/en-GB/en-GB.mod_sportowiada_ranking.sys.ini</language>
-		<language tag="de-DE">language/de-DE/de-DE.mod_sportowiada_ranking.ini</language>
-		<language tag="de-DE">language/de-DE/de-DE.mod_sportowiada_ranking.sys.ini</language>
-		<language tag="pl-PL">language/pl-PL/pl-PL.mod_sportowiada_ranking.ini</language>
-		<language tag="pl-PL">language/pl-PL/pl-PL.mod_sportowiada_ranking.sys.ini</language>
+		<language tag="en-GB">language/en-GB/mod_sportowiada_ranking.ini</language>
+		<language tag="en-GB">language/en-GB/mod_sportowiada_ranking.sys.ini</language>
+		<language tag="de-DE">language/de-DE/mod_sportowiada_ranking.ini</language>
+		<language tag="de-DE">language/de-DE/mod_sportowiada_ranking.sys.ini</language>
+		<language tag="pl-PL">language/pl-PL/mod_sportowiada_ranking.ini</language>
+		<language tag="pl-PL">language/pl-PL/mod_sportowiada_ranking.sys.ini</language>
 	</languages>
 
 	<config>
