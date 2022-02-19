@@ -214,7 +214,7 @@
 	</config>
 	
 	<updateservers>
-		<server type="extension" priority="1" name="SportoWiada Update Site">https://raw.githubusercontent.com/diddipoeler/sportowiada/master/modules/mod_sportowiada_ranking/update-server.xml</server>
+		<server type="extension" priority="1" name="SportoWiada Update Site">https://raw.githubusercontent.com/Rogackis/ranking/main/update-server.xml</server>
 	</updateservers>
 
 </extension>
